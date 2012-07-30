@@ -1,0 +1,3 @@
+" by hawktc
+
+syntax = on
